@@ -12,6 +12,7 @@ VALUES
     ('Dr. Sneha Kapoor', 'Dermatology', 'sneha.kapoor@example.com'),
     ('Dr. Arjun Nair', 'Orthopedics', 'arjun.nair@example.com');
 
+
 INSERT INTO appointment (appointment_time, reason, doctor_id, patient_id)
 VALUES
   ('2025-07-01 10:30:00', 'General Checkup', 1, 2),
